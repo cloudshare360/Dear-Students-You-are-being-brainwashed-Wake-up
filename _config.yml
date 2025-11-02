@@ -21,11 +21,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Navigation
-header_pages:
-  - hierarchical-guide.md
-  - enhanced-guide.md
-  - source.md
+# Exclude files from processing
+exclude:
+  - README.md
+  - NAVIGATION.md
+
+# Include files
+include:
+  - index.html
 
 # SEO
 lang: en
@@ -34,3 +37,7 @@ google_analytics: # Add your Google Analytics ID if needed
 # Social media
 twitter_username: # Add if available
 linkedin_username: # Add if available
+
+# Custom variables
+original_author: "Abhishek Veeramalla"
+original_video: "https://www.youtube.com/watch?v=LtTjFQIT5EQ"
