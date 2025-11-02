@@ -4,8 +4,6 @@ title: "Beyond DSA: Breaking the Student Brainwashing Cycle"
 permalink: /
 ---
 
-# Beyond DSA: Breaking the Student Brainwashing Cycle
-
 ## Educational Resource for Students
 
 **Original Content by**: [Abhishek Veeramalla](https://www.youtube.com/@AbhishekVeeramalla)  
