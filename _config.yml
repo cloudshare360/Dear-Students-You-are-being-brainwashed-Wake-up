@@ -26,17 +26,8 @@ exclude:
   - README.md
   - NAVIGATION.md
 
-# Include files
-include:
-  - index.html
-
 # SEO
 lang: en
-google_analytics: # Add your Google Analytics ID if needed
-
-# Social media
-twitter_username: # Add if available
-linkedin_username: # Add if available
 
 # Custom variables
 original_author: "Abhishek Veeramalla"
