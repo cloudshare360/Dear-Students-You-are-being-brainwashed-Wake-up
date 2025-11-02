@@ -1,0 +1,36 @@
+theme: minima
+title: "Beyond DSA: Breaking the Student Brainwashing Cycle"
+description: "Educational resource helping students understand alternative career paths beyond traditional DSA preparation"
+url: "https://cloudshare360.github.io"
+baseurl: "/Dear-Students-You-are-being-brainwashed-Wake-up"
+
+author:
+  name: CloudShare360
+  
+github_username: cloudshare360
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - hierarchical-guide.md
+  - enhanced-guide.md
+  - source.md
+
+# SEO
+lang: en
+google_analytics: # Add your Google Analytics ID if needed
+
+# Social media
+twitter_username: # Add if available
+linkedin_username: # Add if available
